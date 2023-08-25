@@ -10,7 +10,7 @@ Welcome to the Infix to Postfix Expression Converter and Evaluator repository! H
 
 2. **Postfix Expression Evaluation**: The program includes an evaluation component that calculates the value of a postfix expression. Utilising a stack-based approach, the evaluation considers common arithmetic operations such as addition, subtraction, multiplication, and division. Additionally, the program handles the right-associative power operator to enrich the expression capabilities.
 
-## Usage
+## How to use
 
 To utilise the Infix to Postfix Expression Converter and Evaluator:
 
